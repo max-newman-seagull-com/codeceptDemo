@@ -1,0 +1,74 @@
+How found:	Mouse move (2686,2342)
+	hwnd=0x0002061E 64bit class="MSTaskListWClass" style=0x56000000 ex=0x0
+Name:	"Inspect Object (32-bit UNICODE Release) - 1 running window"
+ControlType:	UIA_ButtonControlTypeId (0xC350)
+LocalizedControlType:	"button"
+BoundingRectangle:	{l:2630 t:2280 r:2777 b:2400}
+IsEnabled:	true
+IsOffscreen:	false
+IsKeyboardFocusable:	true
+HasKeyboardFocus:	false
+AccessKey:	""
+ProcessId:	20316
+RuntimeId:	[2A.2061E.4.80000001.2061E.FFFFFFFC.1E]
+AutomationId:	"{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Kits\10\bin\10.0.26100.0\x86\inspect.exe"
+ProviderDescription:	"[pid:20316,providerId:0x0 Annotation:Microsoft: Annotation Proxy (unmanaged:UIAutomationCore.DLL); Main(parent link):Microsoft: MSAA Proxy (unmanaged:UIAutomationCore.DLL)]"
+IsPassword:	false
+ItemStatus:	""
+HelpText:	""
+IsDialog:	false
+LegacyIAccessible.ChildId:	30
+LegacyIAccessible.DefaultAction:	"Press"
+LegacyIAccessible.Help:	""
+LegacyIAccessible.KeyboardShortcut:	""
+LegacyIAccessible.Name:	"Inspect Object (32-bit UNICODE Release) - 1 running window"
+LegacyIAccessible.Role:	push button (0x2B)
+LegacyIAccessible.State:	pressed,hot tracked,focusable,has popup (0x40100088)
+LegacyIAccessible.Value:	""
+IsAnnotationPatternAvailable:	false
+IsDragPatternAvailable:	false
+IsDockPatternAvailable:	false
+IsDropTargetPatternAvailable:	false
+IsExpandCollapsePatternAvailable:	false
+IsGridItemPatternAvailable:	false
+IsGridPatternAvailable:	false
+IsInvokePatternAvailable:	true
+IsItemContainerPatternAvailable:	false
+IsLegacyIAccessiblePatternAvailable:	true
+IsMultipleViewPatternAvailable:	false
+IsObjectModelPatternAvailable:	false
+IsRangeValuePatternAvailable:	false
+IsScrollItemPatternAvailable:	false
+IsScrollPatternAvailable:	false
+IsSelectionItemPatternAvailable:	false
+IsSelectionPatternAvailable:	false
+IsSpreadsheetItemPatternAvailable:	false
+IsSpreadsheetPatternAvailable:	false
+IsStylesPatternAvailable:	false
+IsSynchronizedInputPatternAvailable:	false
+IsTableItemPatternAvailable:	false
+IsTablePatternAvailable:	false
+IsTextChildPatternAvailable:	false
+IsTextEditPatternAvailable:	false
+IsTextPatternAvailable:	false
+IsTextPattern2Available:	false
+IsTogglePatternAvailable:	false
+IsTransformPatternAvailable:	false
+IsTransform2PatternAvailable:	false
+IsValuePatternAvailable:	false
+IsVirtualizedItemPatternAvailable:	false
+IsWindowPatternAvailable:	false
+IsCustomNavigationPatternAvailable:	false
+IsSelectionPattern2Available:	false
+FirstChild:	[null]
+LastChild:	[null]
+Next:	"WinAppDriverUIRecorder.exe - 1 running window" button
+Previous:	"Appium Inspector - 1 running window" button
+Other Props:	Object has no additional properties
+Children:	Container has no children
+Ancestors:	"Running applications" tool bar
+	"Running applications" pane
+	"" pane
+	"Taskbar" pane
+	"Desktop 1" pane
+	[ No Parent ]
